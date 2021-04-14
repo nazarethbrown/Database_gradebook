@@ -15,3 +15,7 @@ Add 2 points to the score of each student on an assignment;
 Add 2 points just to those students whose last name contains a ‘Q’.
 Compute the grade for a student;
 Compute the grade for a student, where the lowest score for a given category is dropped.
+
+# 3. How the code was ran
+using the compiler from this link: https://paiza.io/projects/OtElCeaCHzTBxCs9S0lyLQ?language=mysql
+copy and paste code from main.sql file into the terminal
